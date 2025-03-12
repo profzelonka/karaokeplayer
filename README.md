@@ -10,7 +10,7 @@ Light & powerful portable open-source karaoke player application with multi-loca
 - **Queue System**: Drag and drop songs into a queue and reorder with a few clicks.
 - **Song Lists**: Create and manage song lists for different events or playlists.
 - **Search & Filter**: Insanely fast filter by song name or artist, or jump to an artist’s first letter. If you don't have the artist/song, hit the "Send to YouTube" button for quick YouTube search.
-- **2nd Video Popout Window**: Monitor-window allows you a duplciate video window to fullscreen on a second monitor.
+- **2nd Video Popout Window**: Monitor-window allows you a duplicate video window to fullscreen on a second monitor.
 - **Custom Idle Videos**: 82 looping idle videos (downlaod below) when no song is playing, wire.mp4 is the default. See additional "idle creator" folder for script to combine logo with your own background videos.
 - **CDG & Video thumbnails!**: When you scan file durations, the program auto-generates thumbnails for each song into the program's "thumbs" folder for easy visual association!
 
@@ -18,7 +18,7 @@ Light & powerful portable open-source karaoke player application with multi-loca
 
 ---
 ## Installation
-0. Requires ffmpeg installed. If you don't have it, essentials version is fine: https://github.com/icedterminal/ffmpeg-installer/releases
+0. **Requires ffmpeg installed.** If you don't have it, essentials version is fine: https://github.com/icedterminal/ffmpeg-installer/releases
 1. Download the latest release’s `.exe` (Or if you live life on hard mode, download the above source and build it yourself)
 2. Extract the "Karaoke Player" folder wherever you want to run it from. Can be your C drive, desktop, or giant SSD external drive with all of your local video and CDG karaoke!
 3. Run the `Karaoke Player.exe` to launch the Karaoke Player directly (no extra installs needed).
