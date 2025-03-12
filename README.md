@@ -23,7 +23,7 @@ Light & powerful portable open-source karaoke player application with multi-loca
 2. Extract the "Karaoke Player" folder wherever you want to run it from. Can be your C drive, desktop, or giant SSD external drive with all of your local video and CDG karaoke!
 3. Run the `Karaoke Player.exe` to launch the Karaoke Player directly (no extra installs needed).
 4. (Optional) Comes with just 1 idle background loop `wire.mp4`. Download 82 more idle loops (3gb) here: https://mega.nz/file/KVxDyIxB#AyrqVxMfyLE0n4Aly0rfGLSrr_V06W2n847HBykePLY
-Simply extract the Idles folder and override the existing folder in the Karaoke Player folder.
+   Simply extract the Idles folder and override the existing folder in the Karaoke Player folder.
 
 ---
 ## Usage
