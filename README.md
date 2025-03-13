@@ -4,7 +4,7 @@ Light & powerful portable open-source karaoke player application with multi-loca
 
 ---
 ## Features
-- **Multi-Locations for Libraries**: Add multiple directories/locations of your library, first available will be used.
+- **Multi-Locations for Libraries**: Add multiple directories/locations of your library, first available will be used. Artist/Song names are auto detected as seperated by a "-". _Example: "Artist name - Song name.mp4_"
 - **Multi-Format Support**: Play `.mp4`, `.mkv`, `.avi`, and `.cdg` karaoke files.
 - **Key & Tempo Shifting**: Adjust pitch and/or speed in high quality and real-time to fit your vocal needs.
 - **Queue System**: Drag and drop songs into a queue and reorder with a few clicks.
